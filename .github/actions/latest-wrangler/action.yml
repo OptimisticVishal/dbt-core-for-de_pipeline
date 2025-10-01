@@ -12,6 +12,7 @@ inputs:
     description: "Auth token for GitHub (must have view packages scope)"
     required: true
 
+
 outputs:
   tags:
     description: "A list of tags to associate with this version"
